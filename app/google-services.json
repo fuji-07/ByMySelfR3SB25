@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135694126106",
+    "firebase_url": "https://chat-test-337c4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-test-337c4",
+    "storage_bucket": "chat-test-337c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135694126106:android:1c275fd9a7fc0ef4e195a3",
+        "android_client_info": {
+          "package_name": "com.example.bymyself_r3sb25"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135694126106-6g63po5mc7bcick0q8846fm68bnepfqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQUiaHxpvfeNfaZg-ujSH1NaQopqXUilU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135694126106-6g63po5mc7bcick0q8846fm68bnepfqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
